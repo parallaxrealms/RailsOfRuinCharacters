@@ -55,7 +55,7 @@ function App() {
       </main>
 
       <footer className="App-footer">
-        <p>version 0.5 </p>
+        <p>version 0.6</p>
         <p>Rails of Ruin is a homemade TTRPG ruleset. Created by Parallax & LordDrugz. This website and character generator was designed and coded by <a href="https://www.christiancassara.com" target="_blank">Parallax</a>.</p>
       </footer>
     </div>
